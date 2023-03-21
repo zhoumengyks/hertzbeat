@@ -24,7 +24,7 @@
         <slf4j.version>1.7.21</slf4j.version>
         <xml.bind.version>2.3.0</xml.bind.version>
         <lombok.version>1.18.20</lombok.version>
-        <springdoc.version>1.6.11</springdoc.version>
+        <springdoc.version>1.6.14</springdoc.version>
         <!-- Test 3rd-party dependencies: -->
         <junit.version>5.7.0</junit.version>
     </properties>
